@@ -23,7 +23,7 @@ Proficient in leveraging Python for data analysis and visualization using tools 
 
 <a href="https://www.microsoft.com/pt-br/microsoft-365/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="Excel" width="40" height="40"/> </a>
 
-<a href="https://www.microsoft.com/pt-br/microsoft-365/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" max-width="100%" /> </a>
+<a target="_blank"> <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" max-width="100%" /> </a>
 </p>
 
 
