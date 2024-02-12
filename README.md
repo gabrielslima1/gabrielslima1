@@ -11,7 +11,6 @@ Proficient in leveraging Python for data analysis and visualization using tools 
 <p align="left"> 
 
 <a> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" max-width="100%" /> </a>
-<a> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" max-width="100%" /> </a>
 <a> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" max-width="100%" /> </a>
 
 <a> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" max-width="100%" /> </a>
