@@ -19,7 +19,7 @@ Proficient in leveraging Python for data analysis and visualization using tools 
 
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovKadD2nT6BwORqot-6-3CN06q6rYZxSiqwD2mbL_QGyt6j189bKo4D8&s=10" alt="streamlit" width="40" height="40"/> </a>
 
-<a href="https://www.microsoft.com/pt-br/microsoft-365/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3AMicrosoft_Office_Excel_%25282019%25E2%2580%2593present%2529.svg&psig=AOvVaw3co0IMKwJxxvM58IV8RLir&ust=1707845655326000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDc5P-qpoQDFQAAAAAdAAAAABAE" alt="Excel" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/pt-br/microsoft-365/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="40" height="40"/> </a>
 
 </p>
 
