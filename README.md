@@ -12,18 +12,15 @@ Proficient in leveraging Python for data analysis and visualization using tools 
 
 <a> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" max-width="100%" /> </a>
 <a> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" max-width="100%" /> </a>
-
 <a> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" max-width="100%" /> </a>
 <a> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" max-width="100%" /> </a>
 <a> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit" max-width="100%" /> </a>
 <a> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" max-width="100%" /> </a>
 <a> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" max-width="100%" /> </a>
-
 <a> <img src="https://img.shields.io/badge/Seaborn-3670A0?style=for-the-badge&logo=Seaborn&logoColor=white" alt="Seaborn" max-width="100%" /> </a>
 <a> <img src="https://img.shields.io/badge/Streamlit-E52121?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" max-width="100%" /> </a>
 <a> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" max-width="100%" /> </a>
-<a> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Power Point" max-width="100%" /> </a>
-<a> <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" max-width="100%" /> </a>
+<a> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Power Point" max-width="100%" /> </a><a> <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" max-width="100%" /> </a>
 
 </p>
 
