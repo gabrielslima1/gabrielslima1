@@ -21,7 +21,7 @@ Proficient in leveraging Python for data analysis and visualization using tools 
 <a> <img src="https://img.shields.io/badge/Streamlit-E52121?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" max-width="100%" /> </a>
 <a> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" max-width="100%" /> </a>
 <a> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Power Point" max-width="100%" /> </a><a> <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" max-width="100%" /> </a>
-
 </p>
 
+> Fraseaaaa
 
